@@ -1,2 +1,3 @@
 # Solution-hanoi
-a solution for tower hanoi
+
+a solution for the tower of Hanoi
